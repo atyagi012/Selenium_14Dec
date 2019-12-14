@@ -6,7 +6,7 @@ git remote add origin https://github.com/atyagi012/Sel_Nov16.git
 git push -u origin master
 ==========================================
 
-imp link
+imp links
 
 https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html
 ==========================================
